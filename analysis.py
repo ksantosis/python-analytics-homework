@@ -7,4 +7,4 @@ average_sales = df["sales"].mean()
 print("Середнє значення:", average_sales)
 print("Це середній рівень продажів по трьох міста")
 #опять тестим что-то
-print("Why you don't commit?"
+print("Why you don't commit?")
